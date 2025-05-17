@@ -1,0 +1,14 @@
+/Users/prateekpraveen/ConsoleApp1/PortfolioApp/obj/Debug/net8.0/PortfolioApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/prateekpraveen/ConsoleApp1/PortfolioApp/obj/Debug/net8.0/PortfolioApp.AssemblyInfoInputs.cache
+/Users/prateekpraveen/ConsoleApp1/PortfolioApp/obj/Debug/net8.0/PortfolioApp.AssemblyInfo.cs
+/Users/prateekpraveen/ConsoleApp1/PortfolioApp/obj/Debug/net8.0/PortfolioApp.csproj.CoreCompileInputs.cache
+/Users/prateekpraveen/ConsoleApp1/PortfolioApp/bin/Debug/net8.0/PortfolioApp
+/Users/prateekpraveen/ConsoleApp1/PortfolioApp/bin/Debug/net8.0/PortfolioApp.deps.json
+/Users/prateekpraveen/ConsoleApp1/PortfolioApp/bin/Debug/net8.0/PortfolioApp.runtimeconfig.json
+/Users/prateekpraveen/ConsoleApp1/PortfolioApp/bin/Debug/net8.0/PortfolioApp.dll
+/Users/prateekpraveen/ConsoleApp1/PortfolioApp/bin/Debug/net8.0/PortfolioApp.pdb
+/Users/prateekpraveen/ConsoleApp1/PortfolioApp/obj/Debug/net8.0/PortfolioApp.dll
+/Users/prateekpraveen/ConsoleApp1/PortfolioApp/obj/Debug/net8.0/refint/PortfolioApp.dll
+/Users/prateekpraveen/ConsoleApp1/PortfolioApp/obj/Debug/net8.0/PortfolioApp.pdb
+/Users/prateekpraveen/ConsoleApp1/PortfolioApp/obj/Debug/net8.0/PortfolioApp.genruntimeconfig.cache
+/Users/prateekpraveen/ConsoleApp1/PortfolioApp/obj/Debug/net8.0/ref/PortfolioApp.dll
